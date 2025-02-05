@@ -8,4 +8,4 @@ O relatório consta com botões interativos para filtros, além de "tooltips" pa
 # Dashboard
 <iframe title="2022 Sales" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-[Link para acesso ao dashboard.] (https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
+[Link para acesso ao dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
