@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a86d5f62-2010-4588-8d77-bf305ca11807)# Introdução
+# Introdução
 O dashboard elaborado utilizando a ferramenta Power BI tem como objetivo apresentar uma visão geral das vendas da empresa ficticia bf.lubs. Ela possuí duas linhas de negócios que são: Aditivos e Lubrificantes. Sua operação ocorre em território nacional (Brasil).
 O relatório consta com botões interativos para filtros, além de "tooltips" para auxiliar na visualização e comparação dos dados. O detalhamento de vendas está disponível em outra guia, possibilitando uma visão minuciosa dos dados.
 
@@ -7,6 +7,10 @@ O relatório consta com botões interativos para filtros, além de "tooltips" pa
 
 # Dashboard
 [![Visão Geral das Vendas](![image](https://github.com/user-attachments/assets/70846bea-3540-4cb0-a5a6-3c84bff2b545)]([URL-do-Link](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9))
+
+
+[![Detalhamento de Vendas](![image](https://github.com/user-attachments/assets/84642dd8-31d0-414b-b763-9bff043a2260))]([URL-do-Link](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9))
+
 
 
 [Link para acesso ao dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
