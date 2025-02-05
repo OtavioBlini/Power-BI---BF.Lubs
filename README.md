@@ -7,14 +7,10 @@ O relatório consta com botões interativos para filtros, além de "tooltips" pa
 
 # Dashboard
 
-[![Teste](https://github.com/user-attachments/assets/70846bea-3540-4cb0-a5a6-3c84bff2b545)](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
+[![Geral](https://github.com/user-attachments/assets/70846bea-3540-4cb0-a5a6-3c84bff2b545)](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
 
 
-(https://github.com/user-attachments/assets/70846bea-3540-4cb0-a5a6-3c84bff2b545)](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9))
-
-
-(https://github.com/user-attachments/assets/84642dd8-31d0-414b-b763-9bff043a2260))]([URL-do-Link](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9))
-
+[![Detalhado](https://github.com/user-attachments/assets/84642dd8-31d0-414b-b763-9bff043a2260)](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
 
 
 [Link para acesso ao dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzZmYjc4Y2ItZGFhNy00ODk5LTlhYjctYmU1NTM2Y2M3ZTdiIiwidCI6IjYzZTE3ZmYzLWE1NjAtNGNhYS04ZTNlLTg0MjNjMzI4YzI5OCJ9)
